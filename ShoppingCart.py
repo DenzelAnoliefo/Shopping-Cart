@@ -1,8 +1,4 @@
 """
-Chidera Denzel-Mark Anoliefo
-251363022
-December 9th, 2024
-
 The provided code establishes an online shopping system with four crucial components: Product, Inventory,
 ShoppingCart, and ProductCatalog. The Product class defines product attributes like name, price, and category. The
 Inventory class employs a dictionary to manage product stock, offering functions for adding, updating, and retrieving
